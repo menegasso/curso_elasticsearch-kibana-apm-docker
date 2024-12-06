@@ -84,7 +84,9 @@ Isso irá iniciar todos os serviços configurados no arquivo `docker-compose.yml
 Após o Docker Compose subir os containers, você pode acessar os seguintes serviços:
 
 API: Acesse a API na URL `http://localhost:3000`.
+
 Kibana: Acesse o painel de visualização de dados do Elasticsearch na URL `http://localhost:5601`.
+
 APM Server: Para visualizar os dados de performance da API, acesse o APM Server na URL `http://localhost:8200`.
 
 
