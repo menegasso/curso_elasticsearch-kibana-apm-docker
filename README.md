@@ -101,5 +101,5 @@ Coleta de Métricas com Metricbeat e Heartbeat: Como configurar o Metricbeat e H
 
 
 
-# Conclusão
+## Conclusão
 Este curso forneceu uma compreensão prática de como configurar e orquestrar múltiplos serviços usando Docker e Docker Compose, bem como integrar esses serviços ao Elastic Stack para monitoramento e análise de dados. A utilização do APM, Metricbeat e Heartbeat adiciona uma camada poderosa de observabilidade à arquitetura de microserviços.
